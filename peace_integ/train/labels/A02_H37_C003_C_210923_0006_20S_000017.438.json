@@ -1,0 +1,137 @@
+{
+	"info":{
+		"name":"animal",
+		"description":"AI Data",
+		"url":"https://aihub.or.kr",
+		"date_created":"2021.12.25"
+	},
+	"images":[{
+		"id":38,
+		"width":1920,
+		"height":1080,
+		"file_name":"A02_H37_C003_C_210923_0006_20S_000017.438.jpg",
+		"date_created":"2021.09.23 23:48:07",
+		"day":"night",
+		"type":"IR",
+		"photographer":"C003",
+		"device":"sensor camera",
+		"location":"호림동",
+		"GPS":"35.834,128.476",
+		"length":"20S",
+		"FPS":"30",
+		"frames":600,
+		"aspect_ratio":"16:9",
+		"resolution":"1920 x 1080",
+		"bit":null,
+		"pixel":null,
+		"color_depth":null,
+		"ISO":null,
+		"white_balance":null,
+		"exposure_time":null,
+		"F-stop":null,
+		"flash":null,
+		"focal_length":null,
+		"angle_view":null,
+		"angle":null,
+		"weather":"cloudy",
+		"time":"000017.438"
+	}],
+	"annotations":[
+		{
+		"labelingcount":1,
+		"id":1,
+		"category_id":2,
+		"category_name":"scrofa",
+		"nocturnality":"yes",
+		"hazardous":"yes",
+		"temperature":null,
+		"regularity":null,
+		"color":"갈색 또는 검은색",
+		"shape":"원뿔형 머리, 삼각형 귀, 긴 주둥이, 짧고 가는 다리, 짧은 꼬리, 예리한 엄니.",
+		"size":"90~200cm",
+		"class":"포유동물강",
+		"order":"우제목",
+		"family":"멧돼지과",
+		"genus":"멧돼지속",
+		"species":"멧돼지",
+		"drawing_id":1,
+		"bbox":[
+		[
+			516.34,
+			361.62
+		],
+		[
+			670.07,
+			670.76
+		]
+		],
+		"segmentation":null
+		}
+		,
+		{
+		"labelingcount":2,
+		"id":2,
+		"category_id":2,
+		"category_name":"scrofa",
+		"nocturnality":"yes",
+		"hazardous":"yes",
+		"temperature":null,
+		"regularity":null,
+		"color":"갈색 또는 검은색",
+		"shape":"원뿔형 머리, 삼각형 귀, 긴 주둥이, 짧고 가는 다리, 짧은 꼬리, 예리한 엄니.",
+		"size":"90~200cm",
+		"class":"포유동물강",
+		"order":"우제목",
+		"family":"멧돼지과",
+		"genus":"멧돼지속",
+		"species":"멧돼지",
+		"drawing_id":1,
+		"bbox":[
+		[
+			981.13,
+			308.15
+		],
+		[
+			1278.3301,
+			494.34998
+		]
+		],
+		"segmentation":null
+		}
+		,
+		{
+		"labelingcount":3,
+		"id":3,
+		"category_id":2,
+		"category_name":"scrofa",
+		"nocturnality":"yes",
+		"hazardous":"yes",
+		"temperature":null,
+		"regularity":null,
+		"color":"갈색 또는 검은색",
+		"shape":"원뿔형 머리, 삼각형 귀, 긴 주둥이, 짧고 가는 다리, 짧은 꼬리, 예리한 엄니.",
+		"size":"90~200cm",
+		"class":"포유동물강",
+		"order":"우제목",
+		"family":"멧돼지과",
+		"genus":"멧돼지속",
+		"species":"멧돼지",
+		"drawing_id":1,
+		"bbox":[
+		[
+			971.76,
+			183.06
+		],
+		[
+			1250.85,
+			366.71
+		]
+		],
+		"segmentation":null
+		}
+	],
+	"license":[{
+		"name":"Attribution-NonCommercial-ShareAlike License",
+		"url":"http://creativecommons.org/licenses/by-nc-sa/2.0"
+	}]
+}

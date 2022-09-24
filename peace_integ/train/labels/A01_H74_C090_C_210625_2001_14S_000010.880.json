@@ -1,0 +1,75 @@
+{
+	"info":{
+		"name":"animal",
+		"description":"AI Data",
+		"url":"https://aihub.or.kr",
+		"date_created":"2021.12.23"
+	},
+	"images":[{
+		"id":1,
+		"width":1920,
+		"height":1080,
+		"file_name":"A01_H74_C090_C_210625_2001_14S_000010.880.jpg",
+		"date_created":"2021.06.25 11:16:37",
+		"day":"day",
+		"type":"RGB",
+		"photographer":"C090",
+		"device":"sensor camera",
+		"location":"낙동정맥",
+		"GPS":"36.662,129.208",
+		"length":"14S",
+		"FPS":"30",
+		"frames":420,
+		"aspect_ratio":"16:9",
+		"resolution":"1920 x 1080",
+		"bit":null,
+		"pixel":null,
+		"color_depth":null,
+		"ISO":null,
+		"white_balance":null,
+		"exposure_time":null,
+		"F-stop":null,
+		"flash":null,
+		"focal_length":null,
+		"angle_view":null,
+		"angle":null,
+		"weather":"rain",
+		"time":"000010.880"
+	}],
+	"annotations":[
+		{
+		"labelingcount":1,
+		"id":1,
+		"category_id":1,
+		"category_name":"inermis",
+		"nocturnality":"yes",
+		"hazardous":"yes",
+		"temperature":null,
+		"regularity":null,
+		"color":"담갈적색",
+		"shape":"둥근귀, 뿔 없음, 엄니모양 송곳니, 짧은 꼬리.",
+		"size":"75~100cm",
+		"class":"포유동물강",
+		"order":"우제목",
+		"family":"사슴과",
+		"genus":"고라니속",
+		"species":"고라니",
+		"drawing_id":1,
+		"bbox":[
+		[
+			534.31,
+			595.5
+		],
+		[
+			895.8,
+			815.88
+		]
+		],
+		"segmentation":null
+		}
+	],
+	"license":[{
+		"name":"Attribution-NonCommercial-ShareAlike License",
+		"url":"http://creativecommons.org/licenses/by-nc-sa/2.0"
+	}]
+}

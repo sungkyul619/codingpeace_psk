@@ -1,0 +1,75 @@
+{
+	"info":{
+		"name":"animal",
+		"description":"AI Data",
+		"url":"https://aihub.or.kr",
+		"date_created":"2021.12.25"
+	},
+	"images":[{
+		"id":7,
+		"width":1920,
+		"height":1080,
+		"file_name":"A02_H38_C009_C_210923_0018_20S_000007.205.jpg",
+		"date_created":"2021.09.23 22:47:13",
+		"day":"night",
+		"type":"IR",
+		"photographer":"C009",
+		"device":"sensor camera",
+		"location":"대천동",
+		"GPS":"33.270,126.488",
+		"length":"20S",
+		"FPS":"30",
+		"frames":600,
+		"aspect_ratio":"16:9",
+		"resolution":"1920 x 1080",
+		"bit":null,
+		"pixel":null,
+		"color_depth":null,
+		"ISO":null,
+		"white_balance":null,
+		"exposure_time":null,
+		"F-stop":null,
+		"flash":null,
+		"focal_length":null,
+		"angle_view":null,
+		"angle":null,
+		"weather":"cloudy",
+		"time":"000007.205"
+	}],
+	"annotations":[
+		{
+		"labelingcount":1,
+		"id":1,
+		"category_id":2,
+		"category_name":"scrofa",
+		"nocturnality":"yes",
+		"hazardous":"yes",
+		"temperature":null,
+		"regularity":null,
+		"color":"갈색 또는 검은색",
+		"shape":"원뿔형 머리, 삼각형 귀, 긴 주둥이, 짧고 가는 다리, 짧은 꼬리, 예리한 엄니.",
+		"size":"90~200cm",
+		"class":"포유동물강",
+		"order":"우제목",
+		"family":"멧돼지과",
+		"genus":"멧돼지속",
+		"species":"멧돼지",
+		"drawing_id":1,
+		"bbox":[
+		[
+			254.83,
+			405.8
+		],
+		[
+			521.15,
+			726.43
+		]
+		],
+		"segmentation":null
+		}
+	],
+	"license":[{
+		"name":"Attribution-NonCommercial-ShareAlike License",
+		"url":"http://creativecommons.org/licenses/by-nc-sa/2.0"
+	}]
+}

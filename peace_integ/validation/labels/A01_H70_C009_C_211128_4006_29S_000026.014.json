@@ -1,0 +1,106 @@
+{
+	"info":{
+		"name":"animal",
+		"description":"AI Data",
+		"url":"https://aihub.or.kr",
+		"date_created":"2021.12.23"
+	},
+	"images":[{
+		"id":113,
+		"width":1920,
+		"height":1080,
+		"file_name":"A01_H70_C009_C_211128_4006_29S_000026.014.jpg",
+		"date_created":"2021.11.28 10:58:29",
+		"day":"day",
+		"type":"RGB",
+		"photographer":"C009",
+		"device":"sensor camera",
+		"location":"고령호촌",
+		"GPS":"35.821,128.47",
+		"length":"29S",
+		"FPS":"30",
+		"frames":870,
+		"aspect_ratio":"16:9",
+		"resolution":"1920 x 1080",
+		"bit":null,
+		"pixel":null,
+		"color_depth":null,
+		"ISO":null,
+		"white_balance":null,
+		"exposure_time":null,
+		"F-stop":null,
+		"flash":null,
+		"focal_length":null,
+		"angle_view":null,
+		"angle":null,
+		"weather":"rain",
+		"time":"000026.014"
+	}],
+	"annotations":[
+		{
+		"labelingcount":1,
+		"id":1,
+		"category_id":1,
+		"category_name":"inermis",
+		"nocturnality":"yes",
+		"hazardous":"yes",
+		"temperature":null,
+		"regularity":null,
+		"color":"담갈적색",
+		"shape":"둥근귀, 뿔 없음, 엄니모양 송곳니, 짧은 꼬리.",
+		"size":"75~100cm",
+		"class":"포유동물강",
+		"order":"우제목",
+		"family":"사슴과",
+		"genus":"고라니속",
+		"species":"고라니",
+		"drawing_id":1,
+		"bbox":[
+		[
+			675.81,
+			618.62
+		],
+		[
+			764.99,
+			745.08997
+		]
+		],
+		"segmentation":null
+		}
+		,
+		{
+		"labelingcount":2,
+		"id":2,
+		"category_id":1,
+		"category_name":"inermis",
+		"nocturnality":"yes",
+		"hazardous":"yes",
+		"temperature":null,
+		"regularity":null,
+		"color":"담갈적색",
+		"shape":"둥근귀, 뿔 없음, 엄니모양 송곳니, 짧은 꼬리.",
+		"size":"75~100cm",
+		"class":"포유동물강",
+		"order":"우제목",
+		"family":"사슴과",
+		"genus":"고라니속",
+		"species":"고라니",
+		"drawing_id":1,
+		"bbox":[
+		[
+			1121.99,
+			579.11
+		],
+		[
+			1266.27,
+			678.47
+		]
+		],
+		"segmentation":null
+		}
+	],
+	"license":[{
+		"name":"Attribution-NonCommercial-ShareAlike License",
+		"url":"http://creativecommons.org/licenses/by-nc-sa/2.0"
+	}]
+}
